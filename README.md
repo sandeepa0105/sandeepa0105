@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandeepa Dilshan Bandara</h1>
 <h3 align="center">Passionate about Digital Electronics, SoC Design, FPGA Development, and Machine Learning Innovation</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepa0105&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepa0105" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sandeepa0105&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepa0105" /> </p>
 
 - 👨‍💻 I’m currently a **ENTC undergraduate in University of Moratuwa, Sri Lanka**
 
